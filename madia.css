@@ -1,0 +1,574 @@
+/* media 1065px-1200px */
+
+@media (min-width:1065px) and (max-width:1200px) {
+ 
+   .nav-link{
+       font-size: 20px;
+   }
+
+   .header-text h1{
+     font-size: 40px !important;  
+   }
+   .header-text p{
+       font-size: 20px;
+       margin-top: 20px;
+   }
+   .date-item{
+       width: 33%;
+   }
+   .date-item h4{
+       font-size: 20px;
+   }
+   .text-1 h5{
+       font-size: 16px;
+   }
+   .carousel-box h1{
+       font-size: 30px;
+   }
+   .carousel-box img{
+       height: 170px;
+   }
+   .h1-1{
+       font-size: 35px;
+   }
+   .box-2 p{
+     font-size: 18px;  
+   }
+   .h1-2{
+       font-size: 35px;
+       margin: 20px 0;
+   }
+   .card-effect{
+       text-align: center !important;
+   }
+   .user-card h3{
+       font-size: 20px;
+   }
+   .user-card img{
+       width: 50px;
+       height: 50px;
+   }
+   .block-header h1{
+    font-size: 35px;
+   }
+   .block-header{
+      width: 90%;
+      margin: 0 auto;
+   }
+   .block-user{
+       width: 90%;
+       margin: 0 auto;
+   }
+}
+@media (min-width:850px) and (max-width:1064px) {
+ 
+    .nav-link{
+        font-size: 18px;
+        margin: 8px;
+    }
+ 
+    .header-text h1{
+      font-size: 40px !important;  
+    }
+    .header-text p{
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .date{
+        width: 70%;
+    }
+    .service{
+    
+    }
+    .date-item{
+        width: 33%;
+    }
+    .date-item h4{
+        font-size: 18px;
+    }
+    .text-1 h5{
+        font-size: 18px;
+    }
+    .carousel-box h1{
+        font-size: 30px;
+    }
+    .carousel-box img{
+        height: 170px;
+    }
+    .h1-1{
+        font-size: 35px;
+    }
+    .box-2 p{
+      font-size: 18px;  
+    }
+    .h1-2{
+        font-size: 35px;
+        margin: 20px 0;
+    }
+    .card-effect{
+        text-align: center !important;
+        width: 100% !important;
+    }
+ 
+    .user-card h3{
+        font-size: 15px;
+    }
+    .user-card img{
+        width: 50px;
+        height: 50px;
+    }
+    .block-header h1{
+     font-size: 35px;
+    }
+    .block-header{
+       width: 90%;
+       margin: 20px auto;
+    }
+    .block-user{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .style-user h3{
+    font-size: 20px;
+    }
+    .footer-block{
+        height: 300px;
+    }
+    .footer-block img{
+       top: -20px;
+    }
+    .footer-text-1 h1{
+     font-size: 30px; 
+    }
+   
+    
+ }
+ @media (min-width:769px) and (max-width:849px) {
+ 
+    .nav-link{
+        font-size: 16px;
+        border: 1px solid rgb(27, 230, 27);
+        margin: 8px;
+    }
+    .singup{
+        width: 33%;
+    }
+    .block{
+        padding: 10px;
+        width: 95% !important;
+    }
+    .header-text h1{
+      font-size: 35px !important;  
+    }
+    .header-text p{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .date{
+        width: 70%;
+    }
+    .service{
+    
+    }
+    .date-item{
+        width: 33%;
+    }
+    .date-item h4{
+        font-size: 16px;
+    }
+    .text-1 h5{
+        font-size: 16px;
+    }
+    .carousel-box h1{
+        font-size: 20px;
+    }
+    .carousel-box img{
+        height: 170px;
+    }
+    .h1-1{
+        font-size: 30px;
+    }
+    .box-2 p{
+      font-size: 18px;  
+    }
+    .h1-2{
+        font-size: 30px;
+        margin: 20px 0;
+    }
+    .card-effect{
+        text-align: center !important;
+        width: 100% !important;
+    }
+ 
+    .user-card h3{
+        font-size: 13px;
+    }
+    .user-card img{
+        width: 50px;
+        height: 50px;
+    }
+    .block-header h1{
+     font-size: 30px;
+    }
+    .block-header{
+       width: 90%;
+       margin: 20px auto;
+    }
+    .block-user{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .style-user h3{
+    font-size: 16px;
+    }
+    .style-user span{
+        width: 40px;
+    }
+    .footer-block{
+        height: 300px;
+    }
+    .footer-block img{
+       top: -20px;
+       width: 50%;
+    }
+    .footer-text-1 h1{
+     font-size: 30px; 
+    }
+   .container-fluid{
+       overflow: hidden;
+   }
+    
+ }
+  @media (min-width:577px) and (max-width:768px) {
+ 
+    .navbar{
+        margin-top: 10px;
+    }
+
+    .nav-link{
+        font-size: 16px;
+        margin: 8px;
+    }
+    .singup{
+        width: 80%;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+    }
+    .block{
+        padding: 10px;
+        width: 95% !important;
+    }
+    .header-text h1{
+      font-size: 35px !important;  
+    }
+    .header-text p{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .date{
+        width: 90%;
+        left: 5%;
+    
+    }
+    .block-card{
+        flex-wrap: wrap;
+        height: auto;
+        display: flex;
+    }
+    .card{
+        width: 30% !important;
+        margin: 1rem 0;
+        height: 150px !important;
+    }
+    .date-item{
+        width: 33%;
+    }
+    .date-item h4{
+        font-size: 16px;
+    }
+    .text-1{
+        width: 90%;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .text-1 h5{
+        font-size: 20px;
+    }
+    .carousel-header h1{
+      font-size: 30px;
+    }
+    .carousel-box{
+        height: 390px;
+    }
+    .carousel-box h1{
+        font-size: 30px;
+    }
+    .carousel-box img{
+        height: 200px;
+    }
+    .carousel-lg{
+        display: none;
+    }
+    .carousel-mobile{
+        display: block;
+    }
+    .card-group{
+         height: 400px;
+         width: 80%;
+         margin: auto;
+    }
+    .card-group .card{
+        height: 350px !important;
+    }
+    .h1-1{
+        font-size: 30px;
+    }
+    .box-2 p{
+      font-size: 18px;  
+    }
+    .h1-2{
+        font-size: 30px;
+        margin: 20px 0;
+    }
+    .card-effect{
+        text-align: center !important;
+        width: 100% !important;
+    }
+    .card-effect p {
+        font-size: 20px;
+    }
+    .user-card h3{
+        font-size: 20px;
+    }
+    .user-card img{
+        width: 70px;
+        height: 70px;
+    }
+    .block-header h1{
+     font-size: 30px;
+    }
+    .block-header{
+       width: 90%;
+       margin: 20px auto;
+    }
+    .block-header button{
+        width: 130px;
+        height: 40px;
+    }
+    .block-user{
+        width: 90%;
+        height: auto;
+        margin: 20px auto;
+    }
+    .style-user{
+        width: 40%;
+        margin-top: 10px;
+        transform: translate(0);
+    }
+    .style-user h3{
+    font-size: 16px;
+    }
+    .style-user span{
+        width: 40px;
+    }
+    .footer-block{
+        height: 300px;
+    }
+    .footer-block img{
+       top: -20px;
+       width: 45%;
+    }
+    .footer-text-1{
+        width: 50%;
+        text-align: center;
+        padding-top: 10%;
+    }
+    .footer-text-1 h1{
+     font-size: 25px; 
+    }
+   .container-fluid{
+       overflow: hidden;
+   }
+    
+ }
+ @media screen and (max-width:576px) {
+ 
+    .navbar{
+        margin-top: 10px;
+    }
+    .nav-link{
+        font-size: 16px;
+        margin: 8px;
+    }
+    .singup{
+        width: 80%;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+    }
+    .block{
+        padding: 10px;
+        width: 95% !important;
+    }
+    .header-text{
+        width: 90%;
+        margin: auto;
+    }
+    .header-text h1{
+      font-size: 30px !important;  
+    }
+    .header-text p{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .date{
+        width: 98%;
+        left: 4px;
+    
+    }
+    .block-card{
+        flex-wrap: wrap;
+        height: auto;
+        display: flex;
+    }
+    .card{
+        width: 80% !important;
+        margin: 1rem 0;
+        height: 150px !important;
+    }
+    .date-item{
+        width: 33%;
+    }
+    .date-item h4{
+        font-size: 13px;
+    }
+    .text-1{
+        width: 90%;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .text-1 h5{
+        font-size: 20px;
+    }
+    .carousel-header h1{
+      font-size: 25px;
+    }
+    .carousel-box{
+        height: 390px;
+    }
+    .carousel-box h1{
+        font-size: 30px;
+    }
+    .carousel-box img{
+        height: 200px;
+    }
+    .carousel-lg{
+        display: none;
+    }
+    .carousel-mobile{
+        display: block;
+    }
+    .card-group{
+         height: 400px;
+         width: 90%;
+         margin: auto;
+    }
+    .card-group .card{
+        margin: 0 !important;
+        width: 90%;
+        height: 350px !important;
+    }
+    .h1-1{
+        font-size: 25px;
+    }
+    .box-2 p{
+      font-size: 20px;  
+    }
+    .h1-2{
+        font-size: 25px;
+        margin: 20px 0;
+    }
+    .card-effect{
+        text-align: center !important;
+        width: 100% !important;
+    }
+    .card-effect p {
+        font-size: 20px;
+    }
+    .user-card h3{
+        font-size: 18px;
+    }
+    .user-card img{
+        width: 60px;
+        height: 60px;
+    }
+    .block-header h1{
+     font-size: 22px;
+     width: 100%;
+    }
+    .block-header{
+       width: 98%;
+       display: flex;
+       margin: 20px auto;
+    }
+    .block-header button{
+        width: 130px;
+        height: 40px;
+    }
+    .block-user{
+        width: 90%;
+        height: auto;
+        margin: 20px auto;
+    }
+    .style-user{
+        width: 80%;
+        margin-top: 10px;
+        transform: translate(0);
+    }
+    .style-user h3{
+    font-size: 16px;
+    }
+    .style-user span{
+        width: 40px;
+    }
+    .footer-block{
+        height: 300px;
+    }
+    .footer-block img{
+       top: -20px;
+       width: 45%;
+       display: none;
+    }
+    .footer-text-1{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        padding-top: 10%;
+    }
+    .footer-text-1 h1{
+     font-size: 25px; 
+    }
+   .container-fluid{
+       overflow: hidden;
+   }
+    
+ }
+ .block-card .card img{
+     width: 100px;
+     height: 100px;
+     margin: auto;
+ }
+ .block-card .card{
+     margin-top: 2rem !important;
+     display: flex;
+     align-items: end;
+     justify-content: center;
+     height: auto;
+     padding: 20px;
+ }
+ .block-card{
+      transform: translateY(20px);
+ }
